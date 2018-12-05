@@ -1,0 +1,10 @@
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\bin\Debug\MonkeyScanningSimulator.exe.config
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\bin\Debug\MonkeyScanningSimulator.exe
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\bin\Debug\MonkeyScanningSimulator.pdb
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.csprojAssemblyReference.cache
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.Form1.resources
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.Properties.Resources.resources
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.csproj.GenerateResource.cache
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.csproj.CoreCompileInputs.cache
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.exe
+C:\Users\FMartinez\source\repos\MonkeyScanningSimulator\MonkeyScanningSimulator\obj\Debug\MonkeyScanningSimulator.pdb
